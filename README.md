@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhuckings%2FAndroidLife.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhuckings%2FAndroidLife?ref=badge_shield)
+
 AndroidLife
 ==
 
@@ -65,3 +67,7 @@ AndroidLife
 
 <br>
 <br>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhuckings%2FAndroidLife.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhuckings%2FAndroidLife?ref=badge_large)
